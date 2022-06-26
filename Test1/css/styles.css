@@ -1,0 +1,12 @@
+#body{
+    background-color: lightsteelblue;
+}
+
+#form {
+    background-color: lightgray;
+}
+
+.err {
+    color: red;
+    display: none;
+}
